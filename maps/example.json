@@ -1,0 +1,22 @@
+{
+	"map_name": "Example_App",
+	"map_version": "1.0.0",
+	"owner": "Themadhood's Codes",
+	"last_updated": "2026-05-01",
+	"refresh_after_days": 365,
+	"notes": "Copy this file when creating a new app endpoint map.",
+	"endpoints": {
+		"main_api": {
+			"url": "https://example.com/api",
+			"method": "GET",
+			"enabled": false,
+			"description": "Main app API endpoint."
+		}
+	},
+	"fallback": {
+		"retry_map_fetch_on_endpoint_failure": true,
+		"retry_endpoint_after_map_refresh": true,
+		"max_endpoint_retry_after_refresh": 1,
+		"save_failed_uploads_locally": true
+	}
+}

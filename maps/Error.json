@@ -1,0 +1,34 @@
+{
+	"map_name": "Error",
+	"map_version": "1.0.0",
+	"owner": "Themadhood's Codes",
+	"last_updated": "2026-05-01",
+	"refresh_after_days": 365,
+	"notes": "Static endpoint pointer map for the Error system. Replace placeholder URLs when a real backend is selected.",
+	"endpoints": {
+		"error_upload": {
+			"url": "https://example.com/api/error/upload",
+			"method": "POST",
+			"enabled": false,
+			"description": "Main endpoint for uploading error records."
+		},
+		"version_check": {
+			"url": "https://example.com/api/error/version",
+			"method": "GET",
+			"enabled": false,
+			"description": "Optional endpoint for checking backend/API version."
+		},
+		"status_check": {
+			"url": "https://example.com/api/status",
+			"method": "GET",
+			"enabled": false,
+			"description": "Optional lightweight status endpoint."
+		}
+	},
+	"fallback": {
+		"retry_map_fetch_on_endpoint_failure": true,
+		"retry_endpoint_after_map_refresh": true,
+		"max_endpoint_retry_after_refresh": 1,
+		"save_failed_uploads_locally": true
+	}
+}

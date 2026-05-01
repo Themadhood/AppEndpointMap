@@ -1,0 +1,52 @@
+AppEndpointMap STATIC ENDPOINT MAP LICENSE AGREEMENT
+Copyright © 2026 Themadhood's Codes
+All Rights Reserved.
+
+This repository (“Product”), including endpoint map files, examples, documentation, and related assets,
+is the exclusive intellectual property of Themadhood's Codes.
+
+By downloading, cloning, viewing, installing, referencing, or using this Product, you agree to the following:
+
+1. GRANT OF LICENSE
+You are granted a non-transferable, non-exclusive license to view and use the publicly hosted endpoint map
+files for personal, internal business, or Themadhood's Codes application-routing purposes. No ownership
+rights are granted.
+
+2. PUBLIC HOSTING NOTICE
+This Product is intended to be hosted publicly as a static GitHub Pages endpoint-map repository. Public access
+to the hosted JSON files does not grant permission to copy, redistribute, sell, sublicense, or claim ownership
+of the Product.
+
+3. RESTRICTIONS
+You MAY NOT:
+- Sell, sublicense, rent, or resell the Product.
+- Modify and redistribute the Product as your own.
+- Use the Product to create a competing endpoint-map service or competing product.
+- Remove or alter ownership, copyright, or license notices.
+- Use Themadhood's Codes names, marks, branding, or files in a way that implies ownership, partnership, or endorsement without written permission.
+
+4. PERMITTED TECHNICAL USE
+Applications may download, cache, and read the hosted endpoint map files for the purpose of locating current
+backend URLs, checking endpoint status, or routing Themadhood's Codes application traffic.
+
+5. OWNERSHIP
+The Product remains solely owned by Themadhood's Codes. You receive a license to use it as described above,
+not rights to its intellectual property.
+
+6. NO WARRANTY
+The Product is provided “AS-IS” without any warranty, including but not limited to implied warranties of
+merchantability, fitness for a particular purpose, availability, accuracy, or noninfringement.
+
+7. LIMITATION OF LIABILITY
+In no event shall Themadhood's Codes be liable for damages, losses, downtime, routing errors, failed uploads,
+data loss, or claims arising from use of the Product, inability to use the Product, or misuse of the Product.
+
+8. TERMINATION
+This license automatically terminates upon violation of these terms. Upon termination, you must permanently
+delete all copies of the Product in your possession and stop using the hosted endpoint map files.
+
+9. COMMERCIAL USE
+A separate commercial-use license may be required for enterprise, redistributed, white-labeled, or competing
+use cases. Contact Themadhood's Codes for commercial licensing options.
+
+For inquiries: themadhood.help@gmail.com
