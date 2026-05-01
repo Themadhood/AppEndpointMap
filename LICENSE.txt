@@ -2,7 +2,7 @@ AppEndpointMap STATIC ENDPOINT MAP LICENSE AGREEMENT
 Copyright © 2026 Themadhood's Codes
 All Rights Reserved.
 
-This repository (“Product”), including endpoint map files, examples, documentation, and related assets,
+This repository, including endpoint map files, examples, documentation, and related assets,
 is the exclusive intellectual property of Themadhood's Codes.
 
 By downloading, cloning, viewing, installing, referencing, or using this Product, you agree to the following:
