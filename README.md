@@ -22,26 +22,6 @@ Save map locally
 Use endpoint from the map
 ```
 
-## GitHub Pages setup
-
-1. Upload this repo to GitHub.
-2. Go to the repo settings.
-3. Open **Pages**.
-4. Set source to the branch you want to publish.
-5. Use the root folder `/`.
-6. Save.
-
-After GitHub Pages publishes, your maps should be available like this:
-
-```text
-https://YOUR-GITHUB-USERNAME.github.io/AppEndpointMap/maps/error.json
-```
-
-Or, if you use a custom domain later:
-
-```text
-https://your-domain.com/maps/error.json
-```
 
 ## Recommended app behavior
 
