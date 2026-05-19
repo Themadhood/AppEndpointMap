@@ -7,9 +7,9 @@
 	"notes": "Static endpoint pointer map for the Error system. Replace placeholder URLs when a real backend is selected.",
 	"endpoints": {
 		"error_upload": {
-			"url": "http://172.31.99.171:8010",
+			"url": "http://example.com/APIs/Error/",
 			"method": "POST",
-			"enabled": true,
+			"enabled": false,
 			"description": "Main endpoint for uploading error records."
 		},
 		"version_check": {
